@@ -1,0 +1,40 @@
+#cor {
+	color: white;
+
+}
+.margin {
+	margin: 10px;
+}
+.cor-black{
+	color: black;
+}
+#cor-azul{
+	color: #eeeeee;
+}
+a{
+	text-decoration: none;
+}
+#fonte-big {
+	font-size: 15px;
+}
+
+#border-radius{
+	border-radius: 20px;
+}
+#logo_estilo{
+	max-width: 100%;
+	height: auto;
+}
+#color_manu{
+	
+}
+#foto_pessoa{
+	max-width: 100%;
+	height: auto;
+}
+
+#menu_cadastro:hover{
+	display: inline;
+}
+
+

@@ -1,0 +1,25 @@
+.div1{
+	border-radius: 10px;
+}
+
+.div2{
+	border-radius: 20px;
+}
+
+.fonte{
+	font-family: Work Sans;
+	
+}
+
+.tamanho{
+	font-size: 16px;
+}
+
+.margem1{
+	margin-top: 100px;
+}
+.color-grey{
+	color: #eeeeee;
+		   
+	text-decoration: none;
+}
